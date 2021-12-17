@@ -1,0 +1,8 @@
+cloud_sql_proxy
+/backend/backend_dev
+/frontend/node_modules
+/fontend/sign-ai/node_modules
+.DS_Store
+frontend/.DS_Store
+frontend/sign-ai/cucumber-report.html
+/AI/SimpleAILife/Code/__pycache__/
